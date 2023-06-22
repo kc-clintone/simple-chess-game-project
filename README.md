@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file you can use for your project:
-
 # Chess Library
 
 This is a C++ library for assessing positions in a game of chess. It provides classes for handling chess-related concepts such as coordinates, pieces, squares, and the chess board. The library allows you to create and manipulate chess positions, calculate possible moves for different pieces, and evaluate the state of the game.
@@ -58,8 +56,7 @@ int main() {
 
 ## Contributing
 
-Contributions to the chess library are welcome! If you find any issues or have suggestions for improvements, please submit them through the issue tracker on GitHub.
-
+Contributions to the chess library are welcome!
 ## License
 
 This chess library is open-source and released under the [MIT License](LICENSE).
@@ -68,4 +65,3 @@ Feel free to modify and use the code for your own projects.
 
 ---
 
-Feel free to customize the README file according to your specific project details, such as adding installation instructions, additional sections explaining advanced usage, or any other relevant information.
